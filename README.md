@@ -1,0 +1,1 @@
+React project created using JSComplete's Reactful guide for setting up environments from scratch
